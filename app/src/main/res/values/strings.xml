@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+
+    <string name="note">Note</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="alert_title_add">Add city</string>
+</resources>
